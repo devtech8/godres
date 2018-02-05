@@ -1,5 +1,6 @@
 body {
-  font-family: 'Open Sans', serif;
+  /* font-family: 'Open Sans', serif; */
+  font-family: 'Magra', sans-serif;
   padding-top: 54px;
   color: #868e96;
 }
@@ -17,7 +18,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Saira Extra Condensed', serif;
+  /* font-family: 'Saira Extra Condensed', serif; */
+  font-family: 'Neucha', cursive;
   font-weight: 700;
   text-transform: uppercase;
   color: #343a40;
@@ -44,7 +46,7 @@ h2 {
 }
 
 .list-social-icons a:hover {
-  color: #BD5D38;
+  color: #0C2340;
 }
 
 .list-social-icons a .fa-lg {
@@ -131,7 +133,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: #BD5D38 !important;
+  background-color: #0C2340 !important;
 }
 
 .text-primary {
