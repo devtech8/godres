@@ -1,5 +1,4 @@
 body {
-  /* font-family: 'Open Sans', serif; */
   font-family: 'Magra', sans-serif;
   padding-top: 54px;
   color: #868e96;
@@ -18,7 +17,6 @@ h3,
 h4,
 h5,
 h6 {
-  /* font-family: 'Saira Extra Condensed', serif; */
   font-family: 'Neucha', cursive;
   font-weight: 700;
   text-transform: uppercase;
@@ -37,7 +35,7 @@ h2 {
 .subheading {
   text-transform: uppercase;
   font-weight: 500;
-  font-family: 'Saira Extra Condensed', serif;
+  font-family: 'Neucha', cursive;
   font-size: 1.35rem;
 }
 
@@ -58,7 +56,7 @@ h2 {
 }
 
 .list-icons .list-inline-item i:hover {
-  color: #BD5D38;
+  color: #0C2340;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -137,13 +135,13 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-primary {
-  color: #BD5D38 !important;
+  color: #0C2340 !important;
 }
 
 a {
-  color: #BD5D38;
+  color: #0C2340;
 }
 
 a:hover, a:focus, a:active {
-  color: #824027;
+  color: black;
 }
