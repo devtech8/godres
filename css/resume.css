@@ -145,3 +145,13 @@ a {
 a:hover, a:focus, a:active {
   color: black;
 }
+
+.gallery-block {
+  padding-left: 45px;
+  padding-right: 45px;
+}
+
+#baguetteBox-figcaption-0 {
+  line-height: 6.8;
+  color: yellow;
+}
