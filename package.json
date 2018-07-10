@@ -19,7 +19,9 @@
         "url": "https://github.com/BlackrockDigital/startbootstrap-resume.git"
     },
     "dependencies": {
+        "baguettebox.js": "^1.10.0",
         "bootstrap": "4.0.0",
+        "browser-sync": "^2.24.5",
         "devicons": "^1.8.0",
         "gulp": "^3.9.1",
         "gulp-clean-css": "^3.9.4",
@@ -30,7 +32,5 @@
         "jquery": "3.3.1",
         "simple-line-icons": "^2.4.1"
     },
-    "devDependencies": {
-        "browser-sync": "2.23.6"
-    }
+    "devDependencies": {}
 }
